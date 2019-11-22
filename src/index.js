@@ -28,9 +28,7 @@ class Home extends Component {
             </li>
 
           </ul>
-          <div>
-            This is the home page!!!!
-          </div>
+
           <Switch>
             <Route exact path="/Happy" component={Happy} />
             <Route exact path="/Sleepy" component={Sleepy} />
