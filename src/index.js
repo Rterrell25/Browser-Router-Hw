@@ -29,7 +29,7 @@ class Home extends Component {
 
           </ul>
           <div>
-            This is the home page!
+            This is the home page!!!!
           </div>
           <Switch>
             <Route exact path="/Happy" component={Happy} />
